@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "191136609039",
+    "project_id": "trailers-c1dc1",
+    "storage_bucket": "trailers-c1dc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191136609039:android:5bb1f00edb02fa2dd6847a",
+        "android_client_info": {
+          "package_name": "com.example.trailers_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191136609039-k8sl941osoouvuevn1oum4vifatq8cer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhOI2mPmAwVGt8CogTUVUKrN4LArKA9vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191136609039-k8sl941osoouvuevn1oum4vifatq8cer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
