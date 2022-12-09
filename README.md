@@ -54,7 +54,11 @@ Which is basicly a search page when you click one of the movie its navigate to m
 ![SearchScreen2](https://user-images.githubusercontent.com/95585412/206760470-1252911f-7e4b-4ca8-9cfe-4f2a6579d904.png)
 ![SearchScreen3](https://user-images.githubusercontent.com/95585412/206760481-2816bdf3-d62f-4cb1-800e-d78eacdaadb2.png)
 
+
+
 ## Getting Started
+
+TrailerApp Apk: https://dosya.co/r14k9abuaebm/trailer-app.apk.html
 
 This project is a starting point for a Flutter application.
 
