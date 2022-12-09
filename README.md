@@ -1,6 +1,7 @@
 # Trailers_app
 
-![açılış ekranı](https://user-images.githubusercontent.com/95585412/206756238-b4f716a8-6745-4cc6-b308-97c69c7da019.gif)
+![açılış ekranı](https://user-images.githubusercontent.com/95585412/206760899-e4c35e04-14b3-465c-a020-8799b111993e.gif)
+
 We have different app icon its show when you open your app.
 After that a splashscreen animation plays with sound effect.
 
