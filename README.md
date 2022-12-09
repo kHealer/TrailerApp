@@ -15,6 +15,7 @@ For sound effect used library: just_audio 0.9.30
 #For stay logged in
 After Splash screen ends its navigate to login_logic page which will decide either user already logged in or not,
 if user logged in it will navigate to MainScreen if user not logged in it will navigate to LoginScreen for this logic i used library:flutter_secure_storage 7.0.0 our loginpage have Firebase authentication with help of flutter_secure_storage library we get users uid key and store it and check if  upcoming uid key is null or match with current users uid.
+
 ![LoginScreen](https://user-images.githubusercontent.com/95585412/206760205-ee81ced1-2115-4141-927c-3e772e33045a.png)
 
 #RegisterPage
