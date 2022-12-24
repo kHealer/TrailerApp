@@ -1,4 +1,7 @@
 # Trailers_app
+Note:Firebase freeplan will be ended at 28.12.2022 so you will see an empty screen.
+
+
 
 ![açılış ekranı](https://user-images.githubusercontent.com/95585412/206760899-e4c35e04-14b3-465c-a020-8799b111993e.gif)
 
